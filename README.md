@@ -1,0 +1,4 @@
+paint
+=====
+
+Java school project
